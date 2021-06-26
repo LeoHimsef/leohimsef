@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working with [SeerBit](https://www.seerbit.com/)
+
+
+[![leotryout's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leotryout&langs_count=8&hide=c%2B%2B,c,java&layout=compact&theme=dracula)](https://github.com/leotryout/github-readme-stats)
+
+[![leotryout's github stats](https://github-readme-stats.vercel.app/api?username=leotryout&count_private=true&show_icons=true&theme=dracula)](https://github.com/leotryout/github-readme-stats)
