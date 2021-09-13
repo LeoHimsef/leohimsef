@@ -1,11 +1,5 @@
-### Hi there, I'm [Leo!](https://leotryout.github.io) 👋
+### Hi there, I'm [Leo!](https://mLeoUC.github.io) 👋
  
-<a href="https://twitter.com/mLeoUC">
-  <img align="left" alt="Leonard Ugorji | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://dribbble.com/mLeoUC">
-  <img align="left" alt="Leonard Ugorji | Dribbble" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/dribbble.svg" />
-</a>
 
 <br />
 <br />
