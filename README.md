@@ -1,4 +1,4 @@
-### Hi there, I'm [Leo!](https://leotryout.github.io) 👋
+### Hi there, I'm [Leo!]() 👋
  
 
 <br />
