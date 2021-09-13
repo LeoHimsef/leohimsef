@@ -1,4 +1,4 @@
-### Hi there, I'm [Leo!]() 👋
+<!-- ### Hi there, I'm [Leo!](http) 👋 -->
  
 
 <br />
