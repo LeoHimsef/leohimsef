@@ -4,7 +4,7 @@
 <br />
 <br />
 
-I'm Leonard Ugorji, a passionate self-taught software developer.
+I'm self-taught software developer with a great eye for design.
 
 <!--
 **leotryout/leotryout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
