@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 
 [![mLeoUC's github stats](https://github-readme-stats.vercel.app/api?username=mLeoUC&count_private=true&show_icons=true&theme=dracula)](https://github.com/mLeoUC/github-readme-stats)
 
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+<!-- 
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)* -->
 
 <!-- <a href="https://github.com/mLeoUC/PageSummarizer">
   <img align="center" src="https://camo.githubusercontent.com/0e107e13ec811dbe70b1768b2cccabb25c2ce44d16a8d9d075d4f25f4788b366/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d616e7572616768617a72612e6769746875622e696f267468656d653d6275656679" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=mleouc&amp;repo=PageSummarizer&amp;theme=buefy" style="max-width: 100%;">
