@@ -1,6 +1,6 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-# Hi there, I'm [Leo!](http) 👋
+# Hi there, I'm Leo! [](http) 👋
  
 
 <br />
