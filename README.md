@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://github.com/ChainSafe/web3.js/blob/1.x/assets/logo/web3js.jpg"></code> 
 
 
-[![leoucon's github stats](https://github-readme-stats.vercel.app/api?username=leoucon&count_private=true&show_icons=true&theme=dracula)](https://github.com/leoucon/github-readme-stats)
-[![leoucon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoucon&langs_count=8&hide=c%2B%2B,c,java&layout=compact&theme=dracula)](https://github.com/leoucon/github-readme-stats)
+[![leopatred's github stats](https://github-readme-stats.vercel.app/api?username=leopatred&count_private=true&show_icons=true&theme=dracula)](https://github.com/leopatred/github-readme-stats)
+[![leopatred's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopatred&langs_count=8&hide=c%2B%2B,c,java&layout=compact&theme=dracula)](https://github.com/leopatred/github-readme-stats)
 
 
 <!-- 
@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 <!-- <a href="https://github.com/leoucon/PageSummarizer">
   <img align="center" src="https://camo.githubusercontent.com/0e107e13ec811dbe70b1768b2cccabb25c2ce44d16a8d9d075d4f25f4788b366/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d616e7572616768617a72612e6769746875622e696f267468656d653d6275656679" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=leoucon&amp;repo=PageSummarizer&amp;theme=buefy" style="max-width: 100%;">
 </a> -->
-<a href="https://twitter.com/leoucon" rel="nofollow">
+<a href="https://twitter.com/leopatred" rel="nofollow">
   <img align="right" alt="Leonard Ugorji | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" style="max-width: 100%;">
 </a>
