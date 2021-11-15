@@ -6,7 +6,7 @@
 <br />
 <br />
 
-As an autodidact developer with a great eye for design, I make delightful 💻 Distributed Systems, and 🌐 Websites for a living. 🌈
+As an autodidact developer with a great eye for design, I make delightful 💻 Web apps. 🌈
 
 
 <!--
