@@ -1,12 +1,16 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-# Hi there, I'm Leo! [](http) 👋
+# Leonard Ugorji [](http) 
+[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3DLakshmanGope&suffix=%20Followers)](https://twitter.com/leouonline)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/leouonline/)
+[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/leouonline/)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:leonardugorji@gmail.com?subject=From%20GitHub&cc=lakshman.gope2@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
  
 
 <br />
 <br />
 
-As an autodidact developer with a great eye for design, I make delightful 💻 Web apps. 🌈
+Hi there👋 , I'm Leo! An autodidact developer with a great eye for design, I make delightful 💻 Web apps. 🌈
 
 
 <!--
